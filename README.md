@@ -28,6 +28,10 @@ Node 9
 
 **value transfer** - the transferring of value by way of ETH, ERC20, ERC721, or any 3rd party contract call.
 
+## UML Class Diagram
+
+<img src="./diagram.svg">
+
 ## Wallet Design and Features
 
 <img src="./Dapper%20Wallet%20-%20Component%20Diagram.svg">
